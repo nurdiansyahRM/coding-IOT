@@ -2,9 +2,9 @@
 CTBot robot;
 int relay = 4;
 
-String ssid_wifi = "OPPO A53";
-String password = "nurdin008";
-String api_token = "5573467370:AAGkWbs-cVwAuhKgbOJ8PofcoCAeeFW-lUY";
+String ssid_wifi = "Nama Wifi";
+String password = "Kode WiFi";
+String api_token = "kode Token Telegram";
 
 void setup() {
   Serial.begin(115200);
